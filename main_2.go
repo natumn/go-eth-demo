@@ -11,9 +11,8 @@ import (
 	"github.com/ethereum/go-ethereum/ethclient"
 )
 
-const key = `paste the contents of your *testnet* key json here`
-
 func main() {
+	const key = `paste the contents of your *testnet* key json here`
 	// Create an IPC based RPC connection to a remote node and instantiate a contract binding
 	conn, err := ethclient.Dial("/home/karalabe/.ethereum/testnet/geth.ipc")
 	if err != nil {

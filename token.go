@@ -1,4 +1,4 @@
-// Copyright 2017 https://gist.github.com/karalabe/5839509295afa4f7e2215bc4116c7a8f All Rights Reserved.
+// Copyright 2017 https://gist.github.com/karalabe All Rights Reserved.
 // This file is an automatically generated Go binding. Do not modify as any
 // change will likely be lost upon the next re-generation!
 
