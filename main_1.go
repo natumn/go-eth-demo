@@ -3,19 +3,6 @@ package main
 import (
 	"fmt"
 	"log"
-	"math/big"
-	"strings"
-
-	"github.com/ethereum/go-ethereum/accounts/abi/bind"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/ethclient"
-)
-
-package main
-
-import (
-	"fmt"
-	"log"
 
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/ethclient"

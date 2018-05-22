@@ -7,10 +7,10 @@ import (
 	"math/big"
 	"strings"
 
-	"github.com/phustly/go-ethereum/accounts/abi"
-	"github.com/phustly/go-ethereum/accounts/abi/bind"
-	"github.com/phustly/go-ethereum/common"
-	"github.com/phustly/go-ethereum/core/types"
+	"github.com/natumn/go-ethereum/accounts/abi"
+	"github.com/natumn/go-ethereum/accounts/abi/bind"
+	"github.com/natumn/go-ethereum/common"
+	"github.com/natumn/go-ethereum/core/types"
 )
 
 // TokenABI is the input ABI used to generate the binding from.
